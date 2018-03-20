@@ -13,7 +13,7 @@ local args = fibaro:args()
 local access_token
 local send_data
 local api_type
-local ThingsBoardIP = "192.168.1.4:8080"
+local ThingsBoardIP = "192.168.x.x:8080"
 
 ----------------------------------------------------------------------------------------------------------
 -- parameters
