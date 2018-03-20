@@ -1,5 +1,5 @@
 # ThingsBoard
-Code related to publishing Things Data to the ThingsBaord
+Code related to publishing Things Data to the ThingsBoard
 
 
 Create get_pi_health_stats.py:-
