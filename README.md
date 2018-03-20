@@ -16,4 +16,4 @@ Example of calling a this scene from another scene  fibaro:startScene(sceneID ,{
 
 
 Collect_Fibaro_Diagnostics.lua
-This gathers CPU, Memory and Storage data from Fibaro's api and send calls the Fibaro_send_to_ThingsBoards.lua scene using it's ID and passes the arguments. This scense itself is call from my main loop, which runs every minute. I run the fibaro loop every minute as not much changes on this server. it it doe then I will know in about 1 min.
+This gathers CPU, Memory and Storage data from Fibaro's api and send calls the "Fibaro_send_to_ThingsBoards.lua" scene using it's "ID" and passes the arguments. This scense itself is call from my main loop, which runs every minute. I run the Fibaro loop every minute as not much changes on this server. If it does then I will know in about 1 min.
